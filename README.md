@@ -1,3 +1,3 @@
 # git-plactice
 
-マンバメンタリティとは
+マンバメンタリティとは  kobe bryant
